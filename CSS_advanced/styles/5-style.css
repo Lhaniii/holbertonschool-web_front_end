@@ -1,5 +1,6 @@
 html{
     scroll-behavior: smooth;
+    front-size: 62.5%;
 }
 :root{
     --font-family-base: "Helvetica Neue", Helvetica, Arial, sans-serif;
