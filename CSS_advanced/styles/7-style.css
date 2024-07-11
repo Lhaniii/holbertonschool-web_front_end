@@ -3,8 +3,8 @@ html{
     font-size: 67.5%;
 }
 :root{
-    --font-family-base: "Open Sans", Helvetica, Arial, sans-serif;
-    --font-family-title: "Raleway", Helvetica, Arial, sans-serif;
+    --font-family-base: "Open Sans", Helvetica Neue, Helvetica, Arial, sans-serif;
+    --font-family-title: "Raleway", Helvetica Neue, Helvetica, Arial, sans-serif;
     --color-primary: #d73953;
     --color-black: #090909;
     --color-white: #ffffff;
@@ -29,7 +29,6 @@ h1, h2, h3, h4, h5, h6{
     font-family: var(--font-family-title);
     font-weight: var(--font-weight-bold);
 }
-
 a{
     color: var(--text-color);
 }
